@@ -95,3 +95,5 @@ for num in range(1,10,4):
 # going from end to start
 for num in range(10,1,-3):
     print(num)
+
+sum([1,2,3])
